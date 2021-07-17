@@ -1,0 +1,22 @@
+.user-id{
+    text-align:right;
+    font-size:24px;
+    font-weight:500;
+    font-family:"Roboto"
+}
+.post-item-container{
+    border-radius:20px;
+    border:1px solid lightgray;
+    margin:50px;
+
+}
+.card-item{
+    display: flex;
+    flex-direction:column;
+    margin:15px;
+}
+.post-id{
+    font-size:24px;
+    font-weight:500;
+    font-family:"Roboto"
+}
