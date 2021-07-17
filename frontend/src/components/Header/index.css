@@ -21,8 +21,7 @@
     align-self: flex-end;
     flex: 1;
     list-style-type: none;
-    margin-top: 0;
-    margin-bottom: 0;
+    
   }
   
   @media screen and (max-width: 767px) {
@@ -39,8 +38,7 @@
     font-size: 16px;
     color: #475569;
   }
-  
-  .logout-btn {
+.logout-btn {
     font-family: 'Roboto';
     font-weight: 600;
     font-size: 14px;
@@ -50,4 +48,7 @@
     border-radius: 4px;
     margin-left: 14px;
   }
-  
+   
+.button-container{
+  padding-top:20px;
+}

@@ -7,8 +7,7 @@
 .post-item-container{
     border-radius:20px;
     border:1px solid lightgray;
-    margin:50px;
-
+    margin:40px;
 }
 .card-item{
     display: flex;

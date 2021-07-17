@@ -12,7 +12,7 @@ class Upload extends Component {
 
   enteringDatabase = async () =>{
     const {jsonData} = this.state;
-    for(let i=0; i<=jsonData.length; i++){
+    for(let i=0; i<jsonData.length; i++){
       console.log(jsonData[i]);
       const url = "http://localhost:3000/"
       const options = {

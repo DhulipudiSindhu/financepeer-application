@@ -33,6 +33,7 @@ const Header = props => {
             <li>Posts</li>
           </Link>
         </ul>
+        <div className="button-container">
         <button
           type="button"
           className="logout-btn"
@@ -40,6 +41,7 @@ const Header = props => {
         >
           Logout
         </button>
+        </div>
       </div>
     </nav>
   )
